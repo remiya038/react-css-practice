@@ -1,2 +1,3 @@
 # react-css-practice
-Created with CodeSandbox
+
+CSS の練習
